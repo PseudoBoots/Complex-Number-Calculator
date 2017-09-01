@@ -1,3 +1,11 @@
+/**
+* @author Victor Bieniek
+* CSC 201
+* Professor Tanes Kanchanawanchai
+* Assignment 1 Programming Problem 5 – Complex Numbers
+* This class takes two complex numbers and adds, subtracts, multipiles and dives them
+*/
+
 import javafx.scene.Scene;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
